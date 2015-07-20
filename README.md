@@ -5,3 +5,7 @@ Made to generate deface pages automatictly.
 
 # VENENO.OVH
 Check our official website for updates and other various tools.
+
+# USAGE
+./page.py + follow the instructions
+Video demo: Not yet
