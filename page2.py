@@ -13,7 +13,7 @@ heading = raw_input("Enter the heading text: ")
 imagelink = raw_input("Enter the principal image location: ")
 bgimage = raw_input("Enter the background image (Optional): ")
 message = raw_input("Enter the message(Use <br> to step a line under): ")
-textcolor = raw_input("Enter the font color (e.g. white: ")
+textcolor = raw_input("Enter the font color (e.g. white): ")
 youtubeid = raw_input("Enter the youtube ID: ")
 
 
